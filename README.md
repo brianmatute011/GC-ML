@@ -1,2 +1,2 @@
 # GColab
-A small repo for Colab projects
+A small repo for ML projects
